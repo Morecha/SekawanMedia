@@ -2,14 +2,12 @@
 more info for template [Laravel SB Admin 2](https://github.com/aleckrh/laravel-sb-admin-2)
 its my first time using this template because its free and my usual template I used is using laravel 8 ([QAdmin](https://github.com/superXdev/QAdmin)) where didnt supported anymore. so I decided to use this template and considering using it with newst version (laravel 10 and php 8.2)
 
-| Laravel Version | Branch | Support     |
-|-----------------|--------|-------------|
-| 10.0            | main   |             |
-| 9.0             | v9.0   |             |
-| 8.0             | v8.0   | End of life |
-| 7.0             | v7.0   | End of life |
-| 6.0             | v6.0   | End of life |
-| 5.8             | v5.8   | End of life |
+### System Info
+| information     | version         |
+|-----------------|-----------------|
+| laravel         | 10x             |
+| php             | v8.2            |
+| mySQL           | 10.4.28-MariaDB |
 
 ## Requirements
 
