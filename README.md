@@ -9,7 +9,16 @@ its my first time using this template because its free and my usual template I u
 | php             | v8.2            |
 | mySQL           | 10.4.28-MariaDB |
 
-## Requirements
+### user and password 
+| username                 | password  | role      |
+|--------------------------|-----------|-----------|
+| admin1@gmail.com         | rahasia   | admin     |
+| admin2@gmail.com         | rahasia   | admin     |
+| moderator1@gmail.com     | rahasia   | moderator |
+| moderator2@gmail.com     | rahasia   | moderator |
+| driver1@gmail.com        | rahasia   | driver    |
+| driver2@gmail.com        | rahasia   | driver    |
+
 
 - PHP >= 8.1
 - Ctype PHP Extension
