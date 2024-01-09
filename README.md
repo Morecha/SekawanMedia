@@ -1,6 +1,6 @@
 ## template Laravel SB Admin 2
-more info for template [Laravel SB Admin 2](https://github.com/aleckrh/laravel-sb-admin-2))
-SB Admin 2 for Laravel.
+more info for template [Laravel SB Admin 2](https://github.com/aleckrh/laravel-sb-admin-2)
+its my first time using this template because its free and my usual template I used is using laravel 8 (php7.3) where didnt supported anymore. so I decided to use this template and considering using it with newst version (laravel 10 and php 8.2)
 
 | Laravel Version | Branch | Support     |
 |-----------------|--------|-------------|
