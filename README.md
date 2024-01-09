@@ -1,5 +1,5 @@
-# Laravel SB Admin 2
-
+## template Laravel SB Admin 2
+more info for template [Laravel SB Admin 2](www.google.com)
 SB Admin 2 for Laravel.
 
 | Laravel Version | Branch | Support     |
