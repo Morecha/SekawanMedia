@@ -32,58 +32,11 @@ its my first time using this template because its free and my usual template I u
 1. Login using Admin
 2. choose Service menu on sidebar
 3. click "Tambah Service" Button
-4. 
+4. Masukkan Data
 
-- Clone the repo and `cd` into it
-- Run `composer install`
-- Rename or copy `.env.example` file to `.env`
-- Run `php artisan key:generate`
-- Set your database credentials in your `.env` file
+# Confirmation by Moderator or Driver
+1. Login as Moderator or Driver
+2. choose Pengajuan menu on sidebar (they only show service need your aproval)
+3. click check button to accept
+4. when both Moderator and Driver Accept it, the Cars status going to be active (can see on 'kendaraan' menu)
 
-## Note
-
-Recommend to install this preset on a project that you are starting from scratch, otherwise your project's design might break.
-
-If you found this project useful, then please consider giving it a :star:
-
-## Credits
-
-Laravel SB Admin 2 uses some open-source third-party libraries/packages, many thanks to the web community.
-
-- Laravel - Open source framework.
-- LaravelEasyNav - Making managing navigation in Laravel easy.
-- SB Admin 2 - Thanks to Start Bootstrap.
-
-## Preview
-
-`login`
-
-<img src="https://imgur.com/YjGp6Sbl.png">
-
-***
-
-`register`
-
-<img src="https://imgur.com/Wj09cu4l.png">
-
-***
-
-`dashboard`
-
-<img src="https://imgur.com/CrmOfT5l.png">
-
-***
-
-`profile`
-
-<img src="https://imgur.com/5t4eS1rl.png">
-
-***
-
-`logout`
-
-<img src="https://imgur.com/d9JclOYl.png">
-
-## License
-
-Licensed under the [MIT](LICENSE) license.
