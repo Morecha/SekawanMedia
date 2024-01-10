@@ -28,13 +28,13 @@ its my first time using this template because its free and my usual template I u
 
 
 ## Guides
-# submit services only by Admin
+### submit services only by Admin
 1. Login using Admin
 2. choose Service menu on sidebar
 3. click "Tambah Service" Button
 4. Masukkan Data
 
-# Confirmation by Moderator or Driver
+### Confirmation by Moderator or Driver
 1. Login as Moderator or Driver
 2. choose Pengajuan menu on sidebar (they only show service need your aproval)
 3. click check button to accept
