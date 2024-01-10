@@ -26,7 +26,12 @@ its my first time using this template because its free and my usual template I u
 - periodict tabel from excel doesnt included due error of vendor ([Laravel Excel](https://laravel-excel.com/)) doesnt support php version
 
 
-## Installation
+## Guides
+# submit services only by Admin
+1. Login using Admin
+2. choose Service menu on sidebar
+3. click "Tambah Service" Button
+4. 
 
 - Clone the repo and `cd` into it
 - Run `composer install`
