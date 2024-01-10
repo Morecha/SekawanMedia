@@ -16,8 +16,8 @@ its my first time using this template because its free and my usual template I u
 | admin2@gmail.com         | rahasia   | admin     |
 | moderator1@gmail.com     | rahasia   | moderator |
 | moderator2@gmail.com     | rahasia   | moderator |
-| driver1@gmail.com        | rahasia   | driver    |
-| driver2@gmail.com        | rahasia   | driver    |
+| kontraktor1@gmail.com    | rahasia   | driver    |
+| kontraktor2@gmail.com    | rahasia   | driver    |
 
 
 - there's 3 roles.
