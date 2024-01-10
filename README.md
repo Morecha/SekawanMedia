@@ -23,7 +23,7 @@ its my first time using this template because its free and my usual template I u
 - there's 3 roles.
 - Admin only can submit the service
 - 2 level verification only can be done by driver and moderator sides
-- periodict tabel from excel doesnt included due error of vendor([Laravel Excel](https://laravel-excel.com/)) and php version
+- periodict tabel from excel doesnt included due error of vendor ([Laravel Excel](https://laravel-excel.com/)) doesnt support php version
 
 
 ## Installation
