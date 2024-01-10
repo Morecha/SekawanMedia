@@ -20,20 +20,11 @@ its my first time using this template because its free and my usual template I u
 | driver2@gmail.com        | rahasia   | driver    |
 
 
-- PHP >= 8.1
-- Ctype PHP Extension
-- cURL PHP Extension
-- DOM PHP Extension
-- Fileinfo PHP Extension
-- Filter PHP Extension
-- Hash PHP Extension
-- Mbstring PHP Extension
-- OpenSSL PHP Extension
-- PCRE PHP Extension
-- PDO PHP Extension
-- Session PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
+- there's 3 roles.
+- Admin only can submit the service
+- 2 level verification only can be done by driver and moderator sides
+- periodict tabel from excel doesnt included due error of vendor([Laravel Excel](https://laravel-excel.com/)) and php version
+
 
 ## Installation
 
