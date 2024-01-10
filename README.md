@@ -24,6 +24,7 @@ its my first time using this template because its free and my usual template I u
 - Admin only can submit the service
 - 2 level verification only can be done by driver and moderator sides
 - periodict tabel from excel doesnt included due error of vendor ([Laravel Excel](https://laravel-excel.com/)) doesnt support php version
+- as long as the car status is "tidak aktif" there is chance to add service, when the status is "active" we cant add more (but the remaining doesnt deleted)
 
 
 ## Guides
